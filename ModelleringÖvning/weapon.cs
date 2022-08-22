@@ -1,9 +1,8 @@
 using System;
 
-namespace ModelleringÖvning
+
+public class Weapon
 {
-    public class weapon
-    {
-        
-    }
+    public int Damage;
 }
+
